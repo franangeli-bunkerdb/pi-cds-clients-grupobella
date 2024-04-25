@@ -1,0 +1,3 @@
+[submodule "submodules/pi-cds-mmm-scale"]
+	path = submodules/pi-cds-mmm-scale
+	url = https://github.com/BunkerDB/pi-cds-mmm-scale
